@@ -1,6 +1,6 @@
 # Hi I am Bhaumik, an aspiring developer from India
 # 💫 About Me:
-🔭 I’m currently working on Gyan<br>🌱 I’m currently learning React<br>💬 Ask me about Web Development and Machine Learning
+🔭 I’m currently working on Gyan - A learning platform<br>🌱 I’m currently learning React<br>💬 Ask me about Web Development and Machine Learning
 
 
 ## 🌐 Socials:
