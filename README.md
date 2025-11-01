@@ -1,6 +1,6 @@
 # Hi I am Bhaumik, an aspiring developer from India
 # 💫 About Me:
-🔭 I’m currently working on SplitPAL- A place where you can manage your expenses and split your bills<br>🌱 I’m currently learning React<br>💬 Ask me about Web Development and Machine Learning
+🔭 I’m currently working on SplitPAL- A place where you can manage your expenses and split your bills<br>🌱 I’m currently learning Next.js<br>💬 Ask me about Web Development and Machine Learning
 
 
 ## 🌐 Socials:
